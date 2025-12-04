@@ -69,8 +69,3 @@ Team | 문범수 | [@Liv01a](https://github.com/Liv01a)
 
 Team | 이창민 | [@ChangminLee](https://github.com/brokenheadEDM)
 
-더 자세한 기술적 내용과 PoC 코드는 첨부된 보고서 및 리포지토리 내 파일들을 참고해 주세요.
-
-📄 최종 분석 보고서 (PDF) (Click to Download)
-
-🐛 Vulnerability PoC Scripts
