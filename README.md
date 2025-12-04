@@ -59,15 +59,15 @@ Model Context Protocol Server Vulnerability Analysis Project
 
 **K-Shield jr 15기 취약점 분석 과정, 경로이탈 (Off-course)**
 
- PM  | 안용준 | [@P0LESTAR](https://github.com/P0LESTAR)
+ PM  | 안용준 | [@Polestar](https://github.com/P0LESTAR)
 
 Team | 황덕연 | [@D30kY](https://github.com/D30kY)
 
-Team | 최원우 | [@choewonwoo1817](https://github.com/choewonwoo1817)
+Team | 최원우 | [@CHOE](https://github.com/choewonwoo1817)
 
 Team | 문범수 | [@Liv01a](https://github.com/Liv01a)
 
-Team | 이창민 | [@brokenheadEDM](https://github.com/brokenheadEDM)
+Team | 이창민 | [@ChangminLee](https://github.com/brokenheadEDM)
 
 더 자세한 기술적 내용과 PoC 코드는 첨부된 보고서 및 리포지토리 내 파일들을 참고해 주세요.
 
